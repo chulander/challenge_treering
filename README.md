@@ -1,10 +1,18 @@
-# Install
+# Clone Repository
 
 ```sh
+git clone git@github.com:chulander/treering.git
+cd treering
+```
+
+#Install
+
+```sh
+
  npm i
 ```
 
-# test
+#Test
 
 ```sh
 npm test
