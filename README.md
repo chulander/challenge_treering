@@ -1,3 +1,5 @@
+# Treering Code Challenge
+
 # Clone Repository
 
 ```sh
@@ -5,14 +7,14 @@ git clone git@github.com:chulander/treering.git
 cd treering
 ```
 
-#Install
+# Install
 
 ```sh
 
  npm i
 ```
 
-#Test
+# Test
 
 ```sh
 npm test
